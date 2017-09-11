@@ -8,24 +8,20 @@ The main functionality of the site was as follows:
 
 A sign up page:
 
-[image]
+![Sign up page](https://github.com/cfstiff/instagramProjectHMC/blob/master/registrationPage.PNG)
 
 A log in page:
 
-[image2]
-
-A log out button:
-
-[image3]
+![Log-in page](https://github.com/cfstiff/instagramProjectHMC/blob/master/logInPage.PNG)
 
 
 A way to add new images with descriptions:
 
-[image4]
+![New Image Form](https://github.com/cfstiff/instagramProjectHMC/blob/master/newPost.PNG)
 
-A way to view all images that had been added to the site:
+A way to view all images that had been added to the site, and a logout button:
 
-[image5]
+![All images, featuring me + a goat and a high school theater set](https://github.com/cfstiff/instagramProjectHMC/blob/master/logOutAndFeed.PNG)
 
 
 

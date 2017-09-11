@@ -1,24 +1,33 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Assignment for CS121 at Harvey Mudd College. For this assignment, we had to create an instagram-esque site in Ruby on Rails, following [this tutorial](https://www.youtube.com/watch?v=MpFO4Zr0EPE).
 
-Things you may want to cover:
+(Brief note to any HMC students who may be working on this assignment in the future - reading this code would count as a violation of the honor code! Do the assignment correctly.)
 
-* Ruby version
+The main functionality of the site was as follows:
 
-* System dependencies
+A sign up page:
 
-* Configuration
+[image]
 
-* Database creation
+A log in page:
 
-* Database initialization
+[image2]
 
-* How to run the test suite
+A log out button:
 
-* Services (job queues, cache servers, search engines, etc.)
+[image3]
 
-* Deployment instructions
 
-* ...
+A way to add new images with descriptions:
+
+[image4]
+
+A way to view all images that had been added to the site:
+
+[image5]
+
+
+
+This assignment would not have been at all possible without many different StackOverflow questions and the grutor troubleshooting document.
+

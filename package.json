@@ -1,0 +1,12 @@
+{
+  "name": "instagram_app",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cfstiff <cfstiff@gmail.com>",
+  "license": "MIT"
+}
